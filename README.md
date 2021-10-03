@@ -9,12 +9,16 @@
 📫 How to reach me Two way
 + Email address : <kwanghochoi2@naver.com>
 + [Instagram](https://www.instagram.com/choi_lautner_jacob/)
++ Current Deactivate Insta
 
 🔭 Currently working on kyunghee-Unvi
 + contract Period : ~ 2021. 11. 27.
 
-⭐ BootCamp
+⭐ SSAC BootCamp
 + Period : ~ 2022. 03. 08 (?)
+
+🐕 Project App
++ Full release : 2021. 12. 31
 #
 ***
 #
