@@ -12,7 +12,9 @@
 
 🔭 Currently working on kyunghee-Unvi
 + contract Period : ~ 2021. 11. 27.
-+ I change jobs at any time
+
+⭐ BootCamp
++ Period : ~ 2022. 03. 08 (?)
 #
 ***
 #
