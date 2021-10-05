@@ -1,10 +1,8 @@
-### Hi there 👋😃
+### Hi 👋😃
 #
  My name is **kwang ho**.
 
 🌱 I’m currently learning SWIFT 
-
-🔧 I’m looking for Job
 
 📫 How to reach me Two way
 + Email address : <kwanghochoi2@naver.com>
@@ -12,12 +10,12 @@
 + Current Deactivate Insta
 
 🔭 Currently working on kyunghee-Unvi
-+ contract Period : ~ 2021. 11. 27.
++ ~ 2021. 11. 27.
 
 ⭐ SSAC BootCamp
 + Period : ~ 2022. 03. 08 (?)
 
-🐕 Project App
+🔧 Project App
 + Full release : 2021. 12. 31
 #
 ***
