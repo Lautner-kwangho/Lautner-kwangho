@@ -10,7 +10,7 @@
 + Current Deactivate Insta
 
 🔭 Currently working on kyunghee-Unvi
-+ ~ 2021. 11. 27.
++ ~~2021. 11. 27.~~
 
 ⭐ SSAC BootCamp
 + Period : ~ 2022. 03. 08 (?)
