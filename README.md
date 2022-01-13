@@ -2,7 +2,7 @@
 #
  My name is **kwang ho**.
 
-🌱 I’m currently learning SWIFT 
+🌱 learning SWIFT 
 
 📫 How to reach me Two way
 + Email address : <kwanghochoi2@naver.com>
@@ -12,11 +12,9 @@
 🔭 Currently working on kyunghee-Unvi
 + ~~2021. 11. 27.~~
 
-⭐ SSAC BootCamp
-+ Period : ~ 2022. 03. 08 (?)
+⭐ SeSAC
++ Period : ~ 2022. 03. 08
 
-🔧 Project App
-+ Full release : 2021. 12. 31
 #
 ***
 #
