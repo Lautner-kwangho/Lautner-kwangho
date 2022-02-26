@@ -2,17 +2,16 @@
 #
  My name is **kwang ho**.
 
-🌱 learning SWIFT 
+🌱 SWIFT 
 
 📫 How to reach me Two way
-+ Email address : <kwanghochoi2@naver.com>
-+ [Instagram](https://www.instagram.com/choi_lautner_jacob/)
-+ Current Deactivate Insta
++ Email address: <kwanghochoi2@naver.com>
 
-🔭 Currently working on kyunghee-Unvi
-+ ~~2021. 11. 27.~~
+🐡 Blog
++ Tistory: https://kwanghone.tistory.com
++ Naver: https://blog.naver.com/kwanghochoi2
 
-⭐ SeSAC
+⭐ SeSAC Camp
 + Period : ~ 2022. 03. 08
 
 #
