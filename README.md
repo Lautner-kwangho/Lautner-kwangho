@@ -2,17 +2,26 @@
 #
  My name is **kwang ho**.
 
-🌱 SWIFT 
+🦊 Stack 
++ [SWIFT], 'Objective C'
 
-📫 How to reach me Two way
+📫 How to Contact
 + Email address: <kwanghochoi2@naver.com>
++ Email address: <wooree2716@gmail.com>
 
 🐡 Blog
 + Tistory: https://kwanghone.tistory.com
 + Naver: https://blog.naver.com/kwanghochoi2
 
-⭐ SeSAC Camp
-+ Period : ~ 2022. 03. 08
+🧑🏻‍💻 Work
++ Fin Tech Co.
+
+⭐ Education
++ SeSAC Camp (Completed)
++ Three Degree (Graduate) / Public Administration, Tax Accounting, Computer Engineering
+
+👨🏻‍✈️ Library 
++ FastPWView: Shortly
 
 #
 ***
