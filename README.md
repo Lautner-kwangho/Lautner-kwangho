@@ -2,8 +2,9 @@
 #
  My name is **kwang ho**.
 
-🦊 Stack 
-+ [SWIFT], 'Objective C'
+🦊 Languages 
+
+<img src="https://img.shields.io/badge/ Swift -F05138?style=flat-square&logo=Swift&logoColor=white"/>&nbsp;&nbsp; <img src="https://img.shields.io/badge/ Objective_C -7FADF2?style=flat-square&logo=C&logoColor=white"/>
 
 📫 How to Contact
 + Email address: <kwanghochoi2@naver.com>
@@ -17,11 +18,14 @@
 + Fin Tech Co.
 
 ⭐ Education
-+ SeSAC Camp (Completed)
++ SeSAC 1st Member(Completed)
 + Three Degree (Graduate) / Public Administration, Tax Accounting, Computer Engineering
 
 👨🏻‍✈️ Library 
 + FastPWView: Shortly
+
+🍎 App Store
++ Art전공
 
 #
 ***
