@@ -12,7 +12,7 @@
 
 🐡 Blog
 + Tistory: https://kwanghone.tistory.com
-+ Naver: https://blog.naver.com/kwanghochoi2
++ Naver: https://blog.naver.com/kwanghochoi2 (이관 중)
 
 🧑🏻‍💻 Work
 + Fin Tech Co.
@@ -22,10 +22,11 @@
 + Three Degree (Graduate) / Public Administration, Tax Accounting, Computer Engineering
 
 👨🏻‍✈️ Library 
-+ FastPWView: Shortly
++ [FastPWView](https://github.com/Lautner-kwangho/FastPWView)
 
 🍎 App Store
-+ Art전공
++ 무료: Art전공
++ 신규: (만드는 중!)
 
 #
 ***
