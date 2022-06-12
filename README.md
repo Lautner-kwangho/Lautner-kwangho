@@ -4,7 +4,7 @@
 
 🦊 Languages 
 
-<img src="https://img.shields.io/badge/ Swift -F05138?style=flat-square&logo=Swift&logoColor=white"/>&nbsp;&nbsp; <img src="https://img.shields.io/badge/ Objective_C -7FADF2?style=flat-square&logo=C&logoColor=white"/>
+<img src="https://img.shields.io/badge/ Swift -F05138?style=flat-square&logo=Swift&logoColor=white"/>&nbsp;&nbsp; <img src="https://img.shields.io/badge/ SwiftUI -009eff?style=flat-square&logo=Swift&logoColor=black"/>&nbsp;&nbsp; <img src="https://img.shields.io/badge/Objective_C-fff2e6?style=flat-square&logo=C&logoColor=brown"/>
 
 📫 How to Contact
 + Email address: <kwanghochoi2@naver.com>
@@ -12,7 +12,7 @@
 
 🐡 Blog
 + Tistory: https://kwanghone.tistory.com
-+ Naver: https://blog.naver.com/kwanghochoi2 (이관 중)
++ Naver: https://blog.naver.com/kwanghochoi2
 
 🧑🏻‍💻 Work
 + Fin Tech Co.
@@ -26,7 +26,7 @@
 
 🍎 App Store
 + 무료: Art전공
-+ 신규: (만드는 중!)
++ 신규: 잠시 보류
 
 #
 ***
